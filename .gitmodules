@@ -1,0 +1,18 @@
+[submodule "etc/Modules/Menu"]
+	path = etc/Modules/Menu
+	url = https://github.com/gvbyte/GP-Class-Menu.git
+[submodule "etc/Modules/Timer"]
+	path = etc/Modules/Timer
+	url = https://github.com/gvbyte/GP-Class-Timer.git
+[submodule "etc/Modules/Email"]
+	path = etc/Modules/Email
+	url = https://github.com/gvbyte/GP-Class-Email.git
+[submodule "etc/Modules/Log"]
+	path = etc/Modules/Log
+	url = https://github.com/gvbyte/GP-Class-Log.git
+[submodule "etc/Modules/WinOS"]
+	path = etc/Modules/WinOS
+	url = https://github.com/gvbyte/GP-Class-WinOS.git
+[submodule "etc/Config"]
+	path = etc/Config
+	url = https://github.com/gvbyte/GP-Config-Template.git
